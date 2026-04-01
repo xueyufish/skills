@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+
+!xueyufish-scheme-checker/
+!xueyufish-scheme-checker/**
+!xueyufish-scheme-writer/
+!xueyufish-scheme-writer/**
+!xueyufish-translation/
+!xueyufish-translation/**
