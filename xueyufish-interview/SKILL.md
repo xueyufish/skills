@@ -50,6 +50,17 @@ Only ask this after the candidate has selected a mode in step 3.
 
 ---
 
+## Providing Reference Answers
+
+Before providing reference answers in any mode, ask the candidate whether they have a knowledge base to provide:
+
+- **No knowledge base**: provide reference answers based on your own experience
+- **With knowledge base**: the candidate provides one or more directory paths. Read and learn from all files in those directories, then synthesize reference answers combining the knowledge base with your experience
+
+This step happens once per session, before the first batch of reference answers. If the candidate provides knowledge base paths, remember them for the entire session.
+
+---
+
 ## Interview Modes
 
 ### Practice Mode
