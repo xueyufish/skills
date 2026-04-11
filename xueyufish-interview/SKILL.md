@@ -68,11 +68,10 @@ This step happens once per session, before the first batch of reference answers.
 Batch practice with reference answers.
 
 1. Present 10 interview questions at once and write them to the record file immediately
-2. Ask the candidate whether they want to provide answers
-3. If yes: the candidate provides their answers, then you provide all 10 reference answers
-4. If no: you provide all 10 reference answers directly
-5. Update the record file with candidate's answers (if any) and reference answers
-6. Ask: continue with another batch / focus practice on a specific area / switch mode
+2. Ask the candidate whether to enter Q&A mode:
+   - **Enter Q&A mode**: go through the 10 questions one by one. The candidate can answer or skip each question. Record every answered question to the record file in real time. After all 10 questions are done (answered or skipped), provide reference answers for all questions and annotate the candidate's answers with corrections and improvements
+   - **Do not enter Q&A mode**: provide all 10 reference answers directly and record them to the file
+3. Ask: continue with another batch / focus practice on a specific area / switch mode
 
 ### Simulation Mode
 
